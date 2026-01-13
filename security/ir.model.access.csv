@@ -1,2 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_nn_partner_auth_user,nn.partner.auth.user,model_nn_partner_auth,base.group_user,1,1,1,1
+access_nn_kiosk_session_user,nn.kiosk.session.user,model_nn_kiosk_session,base.group_user,1,1,1,1
